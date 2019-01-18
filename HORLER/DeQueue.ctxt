@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=max
+comment0.target=DeQueue(int)
+comment1.params=v
+comment1.target=void\ pushfront(int)
+comment2.params=
+comment2.target=int\ popfront()
+comment3.params=v
+comment3.target=void\ pushrear(int)
+comment4.params=
+comment4.target=int\ poprear()
+numComments=5

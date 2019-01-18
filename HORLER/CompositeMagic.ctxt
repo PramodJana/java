@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment1.params=n
+comment1.target=int\ ismagic(int)
+comment2.params=num
+comment2.target=int\ sumof(int)
+comment3.params=a
+comment3.target=int\ iscomposite(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
