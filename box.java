@@ -1,16 +1,18 @@
 import java.io.*;
+import java.util.*;
 class box
 {
+	static int len,wid,hei;
 	public static void main(String[] args)
 	{
 		Scanner kb=new Scanner(System.in);
 		System.out.println("Enter The credentails");
 		System.out.print("Length=");
-		int len=kb.nextInt();
+		len=kb.nextInt();
 		System.out.print("Weidth=");
-		int wid=kb.nextInt();
+		wid=kb.nextInt();
 		System.out.print("Height=");
-		int hei=kb.nextInt();
+		hei=kb.nextInt();
 		box b=new box(len,wid,hei);
 		b.calculate();
 	}
