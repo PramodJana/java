@@ -1,5 +1,7 @@
 package inheritance;
 
+
+
 public class Shipment extends BoxWeight{
 	double cost;
 

@@ -1,4 +1,4 @@
-package exceptionHandling;
+package inheritance;
 
 public class ChainExcDemo {
 
